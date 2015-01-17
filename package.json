@@ -1,0 +1,11 @@
+{
+  "name": "node-press-theme",
+  "version": "0.0.1",
+  "description": "node-press blog engine default theme.",
+  "repository": "https://github.com/node-press/node-press-theme.git",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-stylus": "^2.0.0",
+    "nib": "^1.0.4"
+  }
+}

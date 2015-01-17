@@ -1,2 +1,3 @@
 # node-press-theme
-node-press default theme.
+
+[node-press](https://github.com/node-press/node-press) blog engine default theme.
